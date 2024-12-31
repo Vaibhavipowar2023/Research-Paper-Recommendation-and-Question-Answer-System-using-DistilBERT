@@ -31,7 +31,4 @@ Once the dependencies are installed, run the Streamlit app by using the followin
 
 ``streamlit run app.py``
 
-# Screenshots
-
-![App Screenshot](images/screenshot.png)
 
