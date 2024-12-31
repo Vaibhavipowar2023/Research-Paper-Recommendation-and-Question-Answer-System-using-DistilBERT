@@ -17,7 +17,21 @@ This project provides a Question Answering and Recommendation System for researc
 * Matplotlib
 
 # Installation
-Clone the repository:
+1. ### Clone the repository:
+git clone 
+https://github.com/Vaibhavipowar2023/Research-Paper-Recommendation-and-Question-Answer-System-using-DistilBERT.git
 
-git clone https://github.com/your-username/research-paper-qa-recommendation.git
-cd research-paper-qa-recommendation
+cd Research-Paper-Recommendation-and-Question-Answer-System-using-DistilBERT
+
+2. ### Dataset:
+Make sure you download the Arxiv Paper Abstracts dataset from this link and place it in the project directory.
+
+3. ### Run the application:
+Once the dependencies are installed, run the Streamlit app by using the following command:
+
+``streamlit run app.py``
+
+# Screenshots
+
+![App Screenshot](images/screenshot.png)
+
